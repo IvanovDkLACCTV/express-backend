@@ -1,7 +1,7 @@
 const cors = require("cors")
 
 const allowedOrigins = [
-  "http://localhost:3030",
+  "http://express-backend-3p61.onrender.com",
   "http://192.168.3.12:3030",
   "http://192.168.1.143:3030",
   "http://192.168.1.143:3000",
