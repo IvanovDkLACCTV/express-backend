@@ -39,7 +39,7 @@ const courses = [
     id: 2234,
     shortTitle: "Course 2",
     image:
-      "http://express-backend-3p61.onrender.com/uploads/1736834045203.jpeg",
+      "https://express-backend-3p61.onrender.com/uploads/1736834045203.jpeg",
     title: "Advanced Course 2",
     alias: "course-2",
     description: "Description of Course 2",
