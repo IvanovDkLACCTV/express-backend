@@ -6,7 +6,8 @@ const courses = [
   {
     id: 1234,
     shortTitle: "Course 1",
-    image: "http://localhost/uploads/1736852512087.jpeg",
+    image:
+      "https://express-backend-3p61.onrender.com/uploads/1736852512087.jpeg",
     title: "Introduction to Course 1",
     alias: "course-1",
     description: "Description of Course 1",
@@ -68,7 +69,7 @@ const courses = [
   {
     id: 3657,
     shortTitle: "Course 3",
-    image: "http://express-backend-3p61.onrender.com/uploads/tony.jpeg",
+    image: "https://express-backend-3p61.onrender.com/uploads/tony.jpeg",
     title: "Beginner Course 3",
     alias: "course-3",
     description: "Description of Course 3",
@@ -100,7 +101,8 @@ const courses = [
   {
     id: 4568,
     shortTitle: "Course 4",
-    image: "http://express-backend-3p61.onrender.com/uploads/1736936177326.png",
+    image:
+      "https://express-backend-3p61.onrender.com/uploads/1736936177326.png",
     title: "Intermediate Course 4",
     alias: "course-4",
     description: "Description of Course 4",
@@ -133,7 +135,7 @@ const courses = [
   {
     id: 5678,
     shortTitle: "Course 5",
-    image: "http://express-backend-3p61.onrender.com/uploads/bradly.jpeg",
+    image: "https://express-backend-3p61.onrender.com/uploads/bradly.jpeg",
     title: "Advanced Course 5",
     alias: "course-5",
     description: "Description of Course 5",
@@ -162,7 +164,7 @@ const courses = [
   {
     id: 6789,
     shortTitle: "Course 6",
-    image: "http://express-backend-3p61.onrender.com/uploads/course6.jpeg",
+    image: "https://express-backend-3p61.onrender.com/uploads/course6.jpeg",
     title: "Expert Course 6",
     alias: "course-6",
     description: "Description of Course 6",
@@ -192,7 +194,7 @@ const courses = [
     id: 7890,
     shortTitle: "Course 7",
     image:
-      "http://express-backend-3p61.onrender.com/uploads/1736852512087.jpeg",
+      "https://express-backend-3p61.onrender.com/uploads/1736852512087.jpeg",
     title: "Beginner Course 7",
     alias: "course-7",
     description: "Description of Course 7",
@@ -222,7 +224,7 @@ const courses = [
     id: 8901,
     shortTitle: "Course 8",
     image:
-      "http://express-backend-3p61.onrender.com/uploads/1736852512087.jpeg",
+      "https://express-backend-3p61.onrender.com/uploads/1736852512087.jpeg",
     title: "Advanced Course 8",
     alias: "course-8",
     description: "Description of Course 8",
